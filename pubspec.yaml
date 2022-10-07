@@ -1,10 +1,9 @@
 name: facebook_id_finder
-description: A sample command-line application.
+description: A Dart packge to find facebook page, group or profile id..
 version: 1.0.0
-# homepage: https://www.example.com
 
 environment:
-  sdk: '>=2.17.3 <3.0.0'
+  sdk: ">=2.17.3 <3.0.0"
 
 dependencies:
   path: ^1.8.0
