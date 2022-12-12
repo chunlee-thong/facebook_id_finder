@@ -1,13 +1,15 @@
 name: facebook_id_finder
 description: A Dart packge to find facebook page, group or profile id..
 version: 1.0.0
+homepage: https://github.com/chunlee-thong/facebook_id_finder
+repository: https://github.com/chunlee-thong/facebook_id_finder
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
 
 dependencies:
   path: ^1.8.0
-  http:
+  http: ^0.13.5
 
 dev_dependencies:
   lints: ^2.0.0
